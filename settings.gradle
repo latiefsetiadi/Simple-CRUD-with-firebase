@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "A11.2018.11376_LatiefSetiadi_UAS"

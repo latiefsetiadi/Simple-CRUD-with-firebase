@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "714902686370",
+    "project_id": "mahasiswacrud-a4d64",
+    "storage_bucket": "mahasiswacrud-a4d64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714902686370:android:7cbdae05192bcfad19e5fb",
+        "android_client_info": {
+          "package_name": "com.example.a11201811376_latiefsetiadi_uas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714902686370-8jir5266tldkhb5jpe666saijrmumo3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkenIn70dTyoLgpCFByLKJmVNCb8iWd2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714902686370-8jir5266tldkhb5jpe666saijrmumo3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
